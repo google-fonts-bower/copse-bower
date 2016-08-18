@@ -1,0 +1,17 @@
+{
+    "name": "copse-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Dan Rhatigan"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/copse-bower.git"
+    },
+    "description": "Copse font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
